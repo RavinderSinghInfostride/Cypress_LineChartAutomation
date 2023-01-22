@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 23 01:33:18 IST 2023","Mon Jan 23 01:33:50 IST 2023","32241","","Basic line chart","","","","Retrive data from intallation line chart points",""
+"passed","Mon Jan 23 01:34:42 IST 2023","Mon Jan 23 01:35:11 IST 2023","28685","","Basic line chart","","","","Retrive data from other line chart points",""
+"passed","Mon Jan 23 01:34:14 IST 2023","Mon Jan 23 01:34:42 IST 2023","28254","","Basic line chart","","","","Retrive data from sales line chart points",""
+"passed","Mon Jan 23 01:33:50 IST 2023","Mon Jan 23 01:34:14 IST 2023","23459","","Basic line chart","","","","Retrive data from manufacturing line chart points",""

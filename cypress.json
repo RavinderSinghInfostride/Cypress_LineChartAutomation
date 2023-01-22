@@ -1,0 +1,5 @@
+{
+    "chromeWebSecurity" : false,
+    "scrollBehavior": false,
+    "baseUrl" : "https://www.highcharts.com/demo/line-basic"
+}
